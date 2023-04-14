@@ -12,6 +12,7 @@ redirect_from:
 ## Education
 * M.S. in Theoretical Physics, Jagiellonian University, 2017
 * PhD in Theoretical Physics, bilateral programme funded by French Government between Sorbonne University and Jagiellonian University, 2021
+
 ---
 
 ## Experience
@@ -24,6 +25,8 @@ redirect_from:
   * Project [*Bio-inspired artificial neural networks*](http://bionn.matinf.uj.edu.pl)
   * Jagiellonian University, department of [Theory of Complex Systems](http://cs.if.uj.edu.pl/cs/index.html)
   * Group leader: Maciej A. Nowak
+
+---
 
 ## Publications
   <ul>{% for post in site.publications %}
