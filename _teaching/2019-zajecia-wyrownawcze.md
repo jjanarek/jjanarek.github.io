@@ -8,6 +8,8 @@ date: 2019-10-01
 location: "FAIS"
 ---
 
+Kurs wyrównawczy prowadzony dla grupy studentów kierunku Biofizyka Molekularna i Komórkowa z WBBiB.
+
 Wszelkie najważniejsze informacje dot. kursu znajdują się na jego [stronie](https://users.uj.edu.pl/~zawadzki/ff/).
 Każdy uczestnik kursu przed zajęciami zobowiązany jest do zapoznania się ze skryptem omawiającym zagadnienia, które poruszane będą na ćwiczeniach. W przeciwnym wypadku szkodzi TYLKO sobie :-) Warto zapoznać się z [regułami kursu](/files/reguly_2019.pdf)
 
