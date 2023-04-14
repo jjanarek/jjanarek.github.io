@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jakub Janarek"
 title_separator          : "-"
 name                     : &name "Jakub Janarek"
-description              : &description "personal description"
+description              : &description "post-doc at Jagiellonian University"
 url                      : https://jjanarek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jjanarek/jjanarek.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jakub Janarek, PhD"
   avatar           : "profile.png"
-  bio              : "theoretical physicist-brain scientist"
+  bio              : "theoretical physicist, brain scientist"
   location         : "Kraków, Poland"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=bBJcl3kAAAAJ"
   email            : "jakub.janarek@uj.edu.pl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
