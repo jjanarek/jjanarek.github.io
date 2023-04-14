@@ -8,6 +8,8 @@ date: 2019-10-01
 location: "FAIS"
 ---
 
+Ćwiczenia prowadzone dla słuchaczy wykładu Elektromagnetyzm MS 2019/2020.
+
 Wszelkie najważniejsze informacje dot. kursu znajdują się na jego [stronie](https://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=WFAIS.IF-B120.0).
 Zajęcia w semestrze zimowym 2019/2020 we wtorki o godzinie 14.15 w sali F-1-04.
 
