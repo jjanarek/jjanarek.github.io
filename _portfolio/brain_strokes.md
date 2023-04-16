@@ -4,7 +4,7 @@ excerpt: "Study of the problem of the brain's critical behavior in the case of a
 collection: portfolio
 ---
 
-Short summary of the article [*How do strokes affect the brain's critical state? Structural and functional aspects of the loss of connectome integrity*](/publications/2023-03-30-paper5.md)
+Short summary of the article [*How do strokes affect the brain's critical state? Structural and functional aspects of the loss of connectome integrity*](/publication/2023-03-30-paper5)
 
 The codes for numerical simulation of brain activity, the Ising lattice dynamics, as well as cluster size calculations were prepared by me (JJ) and Jacek Grela. The codes are written in python are available [here](https://github.com/grelade/critical-stroke) alongside jupyter notebooks showing example usecases.
 
